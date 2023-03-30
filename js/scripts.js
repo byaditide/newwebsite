@@ -24,7 +24,7 @@ window.onload = function() {
   var messages = [
     'Hey there 👋',
     'I\'m Aditi',
-    'I\'m currently building <a href=https://zesh.app>Zesh</a> to help small businesses thrive in the ever-changing digital landscape.',
+    'I\'m currently building <a href=https://twitter.com/zeshapph</a> to help small businesses thrive in the ever-changing digital landscape.',
     'I occassionally post my unedited thoughts on finance, technology, and productivity.<br> You can find them here: <a href="https://aditide.substack.com">on my mind</a>.',
     '<a target="_blank" href="https://twitter.com/byaditide">twitter.com/byaditide</a><br><a target="_blank" href="https://instagram.com/byaditide">instagram.com/byaditide</a><br><a target="_blank" href="mailto:aditide@outlook.com">aditide@outlook.com</a>',
     getCurrentTime(),
