@@ -16,16 +16,16 @@ window.onload = function() {
     var hours =  date.getHours();
     var minutes =  date.getMinutes();
     var current = hours + (minutes * .01);
-    if (current >= 5 && current < 19) return 'Have a nice day';
-    if (current >= 19 && current < 22) return 'Have a nice evening';
-    if (current >= 22 || current < 5) return 'Have a good night';
+    if (current >= 5 && current < 19) return 'Have a nice day 🌞';
+    if (current >= 19 && current < 22) return 'Have a nice evening 🥂';
+    if (current >= 22 || current < 5) return 'Have a good night 🌝';
   }
 
   var messages = [
     'Hey there 👋',
     'I\'m Aditi',
-    'I\'m currently building <a href=https://twitter.com/zeshapph>Zesh</a> to help small businesses thrive in the ever-changing digital landscape.',
-    'I occassionally post my unedited thoughts on finance, technology, and productivity.<br> You can find them here: <a href="https://aditide.substack.com">on my mind</a>.',
+    'I\'m currently building <a href=https://twitter.com/zeshapph>Zesh</a> to help small businesses thrive in the ever-changing digital landscape',
+    'I occassionally post my unedited thoughts on finance, technology, and productivity.<br> You can find them here: <a href="https://aditide.substack.com">on my mind</a>',
     '<a target="_blank" href="https://twitter.com/byaditide">twitter.com/byaditide</a><br><a target="_blank" href="https://instagram.com/byaditide">instagram.com/byaditide</a><br><a target="_blank" href="mailto:aditide@outlook.com">aditide@outlook.com</a>',
     getCurrentTime(),
     '✨ A.'
