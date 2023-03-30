@@ -25,7 +25,7 @@ window.onload = function() {
     'Hey there 👋',
     'I\'m Aditi 🤍',
     'I\'m currently building <a href=https://twitter.com/zeshapph>Zesh</a> 🚀',
-    'I also write a newsletter.<br> You can find it here: <a href="https://aditide.substack.com">aditide.substack.com</a> ✏️',
+    'I also write a newsletter.<br> You can find it here:<br> <a href="https://aditide.substack.com">aditide.substack.com</a> ✏️',
     '<a target="_blank" href="https://twitter.com/byaditide">twitter.com/byaditide</a><br><a target="_blank" href="https://instagram.com/byaditide">instagram.com/byaditide</a><br><a target="_blank" href="mailto:aditide@outlook.com">aditide@outlook.com</a>',
     getCurrentTime(),
     '✨ A.'
