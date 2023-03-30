@@ -7,7 +7,7 @@
 window.onload = function() {
 
   var messagesEl = document.querySelector('.messages');
-  var typingSpeed = 20;
+  var typingSpeed = 25;
   var loadingText = '<b>•</b><b>•</b><b>•</b>';
   var messageIndex = 0;
 
@@ -25,7 +25,7 @@ window.onload = function() {
     'Hey there 👋',
     'I\'m Aditi',
     'I\'m currently building <a href=https://twitter.com/zeshapph>Zesh</a> to help small businesses thrive in the ever-changing digital landscape',
-    'I occassionally post my unedited thoughts on finance, technology, and productivity.<br> You can find them here: <a href="https://aditide.substack.com">on my mind</a>',
+    'I write a newsletter where I post my unedited thoughts on finance, technology, and productivity.<br> You can find them here: <a href="https://aditide.substack.com">on my mind</a>',
     '<a target="_blank" href="https://twitter.com/byaditide">twitter.com/byaditide</a><br><a target="_blank" href="https://instagram.com/byaditide">instagram.com/byaditide</a><br><a target="_blank" href="mailto:aditide@outlook.com">aditide@outlook.com</a>',
     getCurrentTime(),
     '✨ A.'
