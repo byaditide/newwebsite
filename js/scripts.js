@@ -21,7 +21,7 @@ window.onload = function() {
     'hey there 👋',
     'i\'m aditi!',
     'my passion lies in using technology to make meaningful differences in people\'s lives',
-    'currently empowering local businesses and communities though <a href=https://twitter.com/zeshapph>Zesh</a>',
+    'currently empowering local businesses and communities though <a href=https://twitter.com/zeshapp>Zesh</a>',
     'check out my newsletter: <a href="https://aditide.substack.com">The Playbook</a>',
     '<a target="_blank" href="https://twitter.com/byaditide">twitter.com/byaditide</a><br><a target="_blank" href="https://instagram.com/byaditide">instagram.com/byaditide</a><br><a target="_blank" href="mailto:aditide@outlook.com">aditide@outlook.com</a>',
     getCurrentTime(),
