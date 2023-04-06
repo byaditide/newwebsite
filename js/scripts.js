@@ -1,8 +1,4 @@
-/*
- * This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License. 
- * To view a copy of this license, visit http://creativecommons.org/licenses/by-nc/4.0/.
- * Copyright (c) 2016 Julian Garnier
- */
+
 
 window.onload = function() {
 
@@ -16,16 +12,17 @@ window.onload = function() {
     var hours =  date.getHours();
     var minutes =  date.getMinutes();
     var current = hours + (minutes * .01);
-    if (current >= 5 && current < 19) return 'Have a nice day 🌞';
-    if (current >= 19 && current < 22) return 'Have a nice evening 🥂';
-    if (current >= 22 || current < 5) return 'Have a good night 🌝';
+    if (current >= 5 && current < 19) return 'have a nice day 🌞';
+    if (current >= 19 && current < 22) return 'have a nice evening 🥂';
+    if (current >= 22 || current < 5) return 'have a good night 🌝';
   }
 
   var messages = [
-    'Hey there 👋',
-    'I\'m Aditi 🤍',
-    'I\'m currently building <a href=https://twitter.com/zeshapph>Zesh</a> 🚀',
-    'I also write a newsletter. ✏️<br> You can find it here:<br> <a href="https://aditide.substack.com">aditide.substack.com</a>',
+    'hey there 👋',
+    'i\'m aditi!',
+    'my passion lies in using technology to make meaningful defferences in people\'s lives',
+    'currently empowering local businesses and communities though <a href=https://twitter.com/zeshapph>zesh</a>.',
+    'check out my newsletter: <a href="https://aditide.substack.com">The Playbook</a>',
     '<a target="_blank" href="https://twitter.com/byaditide">twitter.com/byaditide</a><br><a target="_blank" href="https://instagram.com/byaditide">instagram.com/byaditide</a><br><a target="_blank" href="mailto:aditide@outlook.com">aditide@outlook.com</a>',
     getCurrentTime(),
     '✨ A.'
