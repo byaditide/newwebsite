@@ -21,7 +21,7 @@ window.onload = function() {
     '👯‍♀️ Hey Lovelies!',
     'It\'s Scarlet - Your Money BFF!',
     'Are you ready to transform the way you perceive and manage your finances?',
-    'Scarlet is not just an app; it\'s your passport to financial empowerment tailored for queens like you!'
+    'Scarlet is not just an app; it\'s your passport to financial empowerment tailored for queens like you!',
     '💰 Your Money, Your Way: Budgeting tailored for you.',
     '📈 Strategic Investing Tips: No stress, just our money secrets.',
     '🛍️ VIP Perks: Exclusive savings, because you deserve it!',
