@@ -14,7 +14,7 @@ body {
   min-width: 100vw;
   min-height: 100vh;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  background: #FFF;
+  background: #212124;
 }
 .messages {
   overflow: auto;
@@ -86,8 +86,8 @@ body {
   width: 17px;
   height: 17px;
   border-radius: 100%;
-  border: 1px solid black;
-  background-color: black;
+  border: 1px white;
+  background-color: white;
   position: fixed;
   pointer-events: none;
   left: 0;
