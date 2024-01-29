@@ -20,9 +20,11 @@ window.onload = function() {
   var messages = [
     '👯‍♀️ Hey Lovelies!',
     'It\'s Scarlet - Your Money BFF!',
-    '💰 Your Money, Your Vibe: Budgeting tailored for you, babe!',
-    '📈 Easy-Peasy Investing Tips: No stress, just our money secrets.',
-    '🛍️ Exclusive VIP Perks: Exclusive savings, because you deserve it!',
+    'Are you ready to transform the way you perceive and manage your finances?',
+    'Scarlet is not just an app; it\'s your passport to financial empowerment tailored for queens like you!'
+    '💰 Your Money, Your Way: Budgeting tailored for you.',
+    '📈 Strategic Investing Tips: No stress, just our money secrets.',
+    '🛍️ VIP Perks: Exclusive savings, because you deserve it!',
     '👭 Elite Community Access: Join the inner circle of powerhouse women.',
     '👉 Secure VIP access.'
   ]
