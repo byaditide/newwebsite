@@ -18,14 +18,13 @@ window.onload = function() {
   }
 
   var messages = [
-    'hey there 👋',
-    'i\'m aditi!',
-    'my passion lies in using technology to make meaningful differences in people\'s lives',
-    'currently empowering local businesses and communities though <a href=https://zapso.in>Zapso</a>',
-    'check out my newsletter: <a href="https://aditide.substack.com">The Playbook</a>',
-    '<a target="_blank" href="https://twitter.com/byaditide">twitter.com/byaditide</a><br><a target="_blank" href="https://instagram.com/byaditide">instagram.com/byaditide</a><br><a target="_blank" href="mailto:aditide@outlook.com">aditide@outlook.com</a>',
-    getCurrentTime(),
-    '✨ A.'
+    '👯‍♀️ Hey Lovelies!',
+    'It\'s Scarlet - Your Money BFF!',
+    '💰 Your Money, Your Vibe: Budgeting tailored for you, babe!',
+    '📈 Easy-Peasy Investing Tips: No stress, just our money secrets.',
+    '🛍️ Exclusive VIP Perks: Exclusive savings, because you deserve it!',
+    '👭 Elite Community Access: Join the inner circle of powerhouse women.',
+    '👉 Secure VIP access.'
   ]
 
   var getFontSize = function() {
