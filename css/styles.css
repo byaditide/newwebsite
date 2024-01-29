@@ -14,7 +14,8 @@ body {
   min-width: 100vw;
   min-height: 100vh;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  background: #A61F1F;
+  background: #000000;
+  color: #FFFFFF;
 }
 .messages {
   overflow: auto;
@@ -37,7 +38,7 @@ body {
   border-bottom-left-radius: 0;
 }
 .bubble.left {
-  background: #F28080;
+  background: #212124;
 }
 .bubble:after {
   content: "";
